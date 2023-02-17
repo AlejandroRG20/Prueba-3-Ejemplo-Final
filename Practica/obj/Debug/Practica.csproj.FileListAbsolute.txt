@@ -1,0 +1,81 @@
+C:\Users\_Eespinoza\Desktop\Practica\Practica\bin\Debug\Practica.exe.config
+C:\Users\_Eespinoza\Desktop\Practica\Practica\bin\Debug\Practica.exe
+C:\Users\_Eespinoza\Desktop\Practica\Practica\bin\Debug\Practica.pdb
+C:\Users\_Eespinoza\Desktop\Practica\Practica\obj\Debug\Practica.csproj.AssemblyReference.cache
+C:\Users\_Eespinoza\Desktop\Practica\Practica\obj\Debug\Practica.csproj.SuggestedBindingRedirects.cache
+C:\Users\_Eespinoza\Desktop\Practica\Practica\obj\Debug\Practica.Form1.resources
+C:\Users\_Eespinoza\Desktop\Practica\Practica\obj\Debug\Practica.Form2.resources
+C:\Users\_Eespinoza\Desktop\Practica\Practica\obj\Debug\Practica.Properties.Resources.resources
+C:\Users\_Eespinoza\Desktop\Practica\Practica\obj\Debug\Practica.csproj.GenerateResource.cache
+C:\Users\_Eespinoza\Desktop\Practica\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+C:\Users\_Eespinoza\Desktop\Practica\Practica\obj\Debug\Practica.exe
+C:\Users\_Eespinoza\Desktop\Practica\Practica\obj\Debug\Practica.pdb
+C:\Users\_Eespinoza\Desktop\Practica\Practica\obj\Debug\Practica.Form3.resources
+C:\Users\_Eespinoza\Downloads\UNP\Grafica Asistida por computadoras\Proyectos\Practica\Practica\bin\Debug\Practica.exe.config
+C:\Users\_Eespinoza\Downloads\UNP\Grafica Asistida por computadoras\Proyectos\Practica\Practica\bin\Debug\Practica.exe
+C:\Users\_Eespinoza\Downloads\UNP\Grafica Asistida por computadoras\Proyectos\Practica\Practica\bin\Debug\Practica.pdb
+C:\Users\_Eespinoza\Downloads\UNP\Grafica Asistida por computadoras\Proyectos\Practica\Practica\obj\Debug\Practica.csproj.AssemblyReference.cache
+C:\Users\_Eespinoza\Downloads\UNP\Grafica Asistida por computadoras\Proyectos\Practica\Practica\obj\Debug\Practica.csproj.SuggestedBindingRedirects.cache
+C:\Users\_Eespinoza\Downloads\UNP\Grafica Asistida por computadoras\Proyectos\Practica\Practica\obj\Debug\Practica.Factura.resources
+C:\Users\_Eespinoza\Downloads\UNP\Grafica Asistida por computadoras\Proyectos\Practica\Practica\obj\Debug\Practica.Form1.resources
+C:\Users\_Eespinoza\Downloads\UNP\Grafica Asistida por computadoras\Proyectos\Practica\Practica\obj\Debug\Practica.Form2.resources
+C:\Users\_Eespinoza\Downloads\UNP\Grafica Asistida por computadoras\Proyectos\Practica\Practica\obj\Debug\Practica.Form3.resources
+C:\Users\_Eespinoza\Downloads\UNP\Grafica Asistida por computadoras\Proyectos\Practica\Practica\obj\Debug\Practica.Form4.resources
+C:\Users\_Eespinoza\Downloads\UNP\Grafica Asistida por computadoras\Proyectos\Practica\Practica\obj\Debug\Practica.Form5.resources
+C:\Users\_Eespinoza\Downloads\UNP\Grafica Asistida por computadoras\Proyectos\Practica\Practica\obj\Debug\Practica.Properties.Resources.resources
+C:\Users\_Eespinoza\Downloads\UNP\Grafica Asistida por computadoras\Proyectos\Practica\Practica\obj\Debug\Practica.PS2.resources
+C:\Users\_Eespinoza\Downloads\UNP\Grafica Asistida por computadoras\Proyectos\Practica\Practica\obj\Debug\Practica.csproj.GenerateResource.cache
+C:\Users\_Eespinoza\Downloads\UNP\Grafica Asistida por computadoras\Proyectos\Practica\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+C:\Users\_Eespinoza\Downloads\UNP\Grafica Asistida por computadoras\Proyectos\Practica\Practica\obj\Debug\Practica.exe
+C:\Users\_Eespinoza\Downloads\UNP\Grafica Asistida por computadoras\Proyectos\Practica\Practica\obj\Debug\Practica.pdb
+C:\Users\JADPA-28\Downloads\Proyectos\Proyectos\Practica\Practica\bin\Debug\Practica.exe.config
+C:\Users\JADPA-28\Downloads\Proyectos\Proyectos\Practica\Practica\bin\Debug\Practica.exe
+C:\Users\JADPA-28\Downloads\Proyectos\Proyectos\Practica\Practica\bin\Debug\Practica.pdb
+C:\Users\JADPA-28\Downloads\Proyectos\Proyectos\Practica\Practica\obj\Debug\Practica.csproj.AssemblyReference.cache
+C:\Users\JADPA-28\Downloads\Proyectos\Proyectos\Practica\Practica\obj\Debug\Practica.csproj.SuggestedBindingRedirects.cache
+C:\Users\JADPA-28\Downloads\Proyectos\Proyectos\Practica\Practica\obj\Debug\Practica.Factura.resources
+C:\Users\JADPA-28\Downloads\Proyectos\Proyectos\Practica\Practica\obj\Debug\Practica.Form1.resources
+C:\Users\JADPA-28\Downloads\Proyectos\Proyectos\Practica\Practica\obj\Debug\Practica.Form2.resources
+C:\Users\JADPA-28\Downloads\Proyectos\Proyectos\Practica\Practica\obj\Debug\Practica.Form3.resources
+C:\Users\JADPA-28\Downloads\Proyectos\Proyectos\Practica\Practica\obj\Debug\Practica.Form4.resources
+C:\Users\JADPA-28\Downloads\Proyectos\Proyectos\Practica\Practica\obj\Debug\Practica.Form5.resources
+C:\Users\JADPA-28\Downloads\Proyectos\Proyectos\Practica\Practica\obj\Debug\Practica.Properties.Resources.resources
+C:\Users\JADPA-28\Downloads\Proyectos\Proyectos\Practica\Practica\obj\Debug\Practica.PS2.resources
+C:\Users\JADPA-28\Downloads\Proyectos\Proyectos\Practica\Practica\obj\Debug\Practica.csproj.GenerateResource.cache
+C:\Users\JADPA-28\Downloads\Proyectos\Proyectos\Practica\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-28\Downloads\Proyectos\Proyectos\Practica\Practica\obj\Debug\Practica.exe
+C:\Users\JADPA-28\Downloads\Proyectos\Proyectos\Practica\Practica\obj\Debug\Practica.pdb
+C:\Users\JADPA-11\Downloads\kkk\Practica\bin\Debug\Practica.exe.config
+C:\Users\JADPA-11\Downloads\kkk\Practica\bin\Debug\Practica.exe
+C:\Users\JADPA-11\Downloads\kkk\Practica\bin\Debug\Practica.pdb
+C:\Users\JADPA-11\Downloads\kkk\Practica\obj\Debug\Practica.csproj.AssemblyReference.cache
+C:\Users\JADPA-11\Downloads\kkk\Practica\obj\Debug\Practica.csproj.SuggestedBindingRedirects.cache
+C:\Users\JADPA-11\Downloads\kkk\Practica\obj\Debug\Practica.Factura.resources
+C:\Users\JADPA-11\Downloads\kkk\Practica\obj\Debug\Practica.Form1.resources
+C:\Users\JADPA-11\Downloads\kkk\Practica\obj\Debug\Practica.Form2.resources
+C:\Users\JADPA-11\Downloads\kkk\Practica\obj\Debug\Practica.Form3.resources
+C:\Users\JADPA-11\Downloads\kkk\Practica\obj\Debug\Practica.Form4.resources
+C:\Users\JADPA-11\Downloads\kkk\Practica\obj\Debug\Practica.Form5.resources
+C:\Users\JADPA-11\Downloads\kkk\Practica\obj\Debug\Practica.Properties.Resources.resources
+C:\Users\JADPA-11\Downloads\kkk\Practica\obj\Debug\Practica.PS2.resources
+C:\Users\JADPA-11\Downloads\kkk\Practica\obj\Debug\Practica.csproj.GenerateResource.cache
+C:\Users\JADPA-11\Downloads\kkk\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-11\Downloads\kkk\Practica\obj\Debug\Practica.exe
+C:\Users\JADPA-11\Downloads\kkk\Practica\obj\Debug\Practica.pdb
+C:\PRUEBA-3-EJEMPLO-main\Practica\obj\Debug\Practica.csproj.AssemblyReference.cache
+C:\PRUEBA-3-EJEMPLO-main\Practica\obj\Debug\Practica.csproj.SuggestedBindingRedirects.cache
+C:\PRUEBA-3-EJEMPLO-main\Practica\obj\Debug\Practica.Factura.resources
+C:\PRUEBA-3-EJEMPLO-main\Practica\obj\Debug\Practica.Form1.resources
+C:\PRUEBA-3-EJEMPLO-main\Practica\obj\Debug\Practica.Form2.resources
+C:\PRUEBA-3-EJEMPLO-main\Practica\obj\Debug\Practica.Form3.resources
+C:\PRUEBA-3-EJEMPLO-main\Practica\obj\Debug\Practica.Form4.resources
+C:\PRUEBA-3-EJEMPLO-main\Practica\obj\Debug\Practica.Form5.resources
+C:\PRUEBA-3-EJEMPLO-main\Practica\obj\Debug\Practica.Properties.Resources.resources
+C:\PRUEBA-3-EJEMPLO-main\Practica\obj\Debug\Practica.PS2.resources
+C:\PRUEBA-3-EJEMPLO-main\Practica\obj\Debug\Practica.csproj.GenerateResource.cache
+C:\PRUEBA-3-EJEMPLO-main\Practica\obj\Debug\Practica.csproj.CoreCompileInputs.cache
+C:\PRUEBA-3-EJEMPLO-main\Practica\obj\Debug\Practica.exe
+C:\PRUEBA-3-EJEMPLO-main\Practica\obj\Debug\Practica.pdb
+C:\PRUEBA-3-EJEMPLO-main\Practica\bin\Debug\Practica.exe.config
+C:\PRUEBA-3-EJEMPLO-main\Practica\bin\Debug\Practica.exe
+C:\PRUEBA-3-EJEMPLO-main\Practica\bin\Debug\Practica.pdb
